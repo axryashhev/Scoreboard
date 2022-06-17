@@ -1,0 +1,14 @@
+/Users/artemhrasev/RiderProjects/Scoreboard/Scoreboard.Data/bin/Debug/net6.0/Scoreboard.Data.deps.json
+/Users/artemhrasev/RiderProjects/Scoreboard/Scoreboard.Data/bin/Debug/net6.0/Scoreboard.Data.runtimeconfig.json
+/Users/artemhrasev/RiderProjects/Scoreboard/Scoreboard.Data/bin/Debug/net6.0/Scoreboard.Data.dll
+/Users/artemhrasev/RiderProjects/Scoreboard/Scoreboard.Data/bin/Debug/net6.0/Scoreboard.Data.pdb
+/Users/artemhrasev/RiderProjects/Scoreboard/Scoreboard.Data/obj/Debug/net6.0/Scoreboard.Data.csproj.AssemblyReference.cache
+/Users/artemhrasev/RiderProjects/Scoreboard/Scoreboard.Data/obj/Debug/net6.0/Scoreboard.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artemhrasev/RiderProjects/Scoreboard/Scoreboard.Data/obj/Debug/net6.0/Scoreboard.Data.AssemblyInfoInputs.cache
+/Users/artemhrasev/RiderProjects/Scoreboard/Scoreboard.Data/obj/Debug/net6.0/Scoreboard.Data.AssemblyInfo.cs
+/Users/artemhrasev/RiderProjects/Scoreboard/Scoreboard.Data/obj/Debug/net6.0/Scoreboard.Data.csproj.CoreCompileInputs.cache
+/Users/artemhrasev/RiderProjects/Scoreboard/Scoreboard.Data/obj/Debug/net6.0/Scoreboard.Data.dll
+/Users/artemhrasev/RiderProjects/Scoreboard/Scoreboard.Data/obj/Debug/net6.0/refint/Scoreboard.Data.dll
+/Users/artemhrasev/RiderProjects/Scoreboard/Scoreboard.Data/obj/Debug/net6.0/Scoreboard.Data.pdb
+/Users/artemhrasev/RiderProjects/Scoreboard/Scoreboard.Data/obj/Debug/net6.0/Scoreboard.Data.genruntimeconfig.cache
+/Users/artemhrasev/RiderProjects/Scoreboard/Scoreboard.Data/obj/Debug/net6.0/ref/Scoreboard.Data.dll
